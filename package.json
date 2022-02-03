@@ -1,0 +1,25 @@
+{
+  "name": "class-exercise-4",
+  "version": "1.0.0",
+  "description": "convert a javascript project to typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olugbenga1/class-exercise-4.git"
+  },
+  "author": "Olugbenga Odedele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olugbenga1/class-exercise-4/issues"
+  },
+  "homepage": "https://github.com/olugbenga1/class-exercise-4#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.14",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5"
+  }
+}
